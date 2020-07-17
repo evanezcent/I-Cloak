@@ -9,4 +9,4 @@ This is inspire of Harry Potter when re received a chrismast gift from dumbledor
 3. Get in the frame
 4. Use your cloak (Anything that have a *red color* with high contrast of it)
 
-![image](https://github.com/evanezcent/I-Cloak/img.gif)
+![image](https://github.com/evanezcent/I-Cloak/blob/master/img.gif)
